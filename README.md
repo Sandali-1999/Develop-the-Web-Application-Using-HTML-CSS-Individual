@@ -1,1 +1,1 @@
-# Develop the Web Application Using HTML/CSS
+# Develop the Web Application Using HTML/CSS (Individual)
